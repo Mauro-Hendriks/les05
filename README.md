@@ -1,6 +1,6 @@
 # Grilled cheese sandwich
 
-## !grilled[](grilled-cheese-horizontal.jpg)
+## ![grilled](grilled-cheese-horizontal.jpg)
 
 - 5 eet lepels botter
 
